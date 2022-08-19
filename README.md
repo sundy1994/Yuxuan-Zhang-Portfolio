@@ -7,4 +7,4 @@ Important Data Science Projects
 * Implemented unsupervised machine learning such as Principle Component Analysis (PCA), k-means clustering to visualize the accident data.
 * Created interactive plots on US and Philly map with plotly and folium package, which dynamically displayed the number and severity of accidents in each state/road.
 
-![](https://github.com/sundy1994/Project-US-accidents/blob/main/images/1.%20severity.png)
+![](https://github.com/sundy1994/Project-US-accidents/blob/main/images/2.%20most%20states.png)
