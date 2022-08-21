@@ -13,9 +13,9 @@ Important Data Science Projects
 **Key Words:**  Python, Pandas, Data wrangling, EDA, Data visualization, Machine Learning, Classification
 
 
-![](/images/2.%20most%20states.png)
+![](/images/states.png)
 
-![](/images/7.%20Philly%20map%202.png)
+![](/images/map.png)
 
 # [Project 2: NBA Database Server Website](https://github.com/sundy1994/Project-NBA-Server)
 
