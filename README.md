@@ -13,7 +13,9 @@ Important Data Science Projects
 **Key Words:**  Python, Pandas, Data wrangling, EDA, Data visualization, Machine Learning, Classification
 
 
-![]()
+![](/images/2.%20most%20states.png)
+
+![](/images/7.%20Philly%20map%202.png)
 
 # [Project 2: NBA Database Server Website](https://github.com/sundy1994/Project-NBA-Server)
 
@@ -25,3 +27,7 @@ Important Data Science Projects
 * Established a team-building function allowing users to build their own NBA team of 5 with total payroll and players’ photos showing on top of it.
 
 **Key Words:**  SQL, JAVA Script, Web Application, Relational Database, AWS, Data Wrangling, Query Optimization
+
+![](/images/build.png)
+
+![](/images/team.png)
