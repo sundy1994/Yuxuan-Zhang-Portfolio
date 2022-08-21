@@ -13,9 +13,12 @@ Important Data Science Projects
 **Key Words:**  Python, Pandas, Data wrangling, EDA, Data visualization, Machine Learning, Classification
 
 
-![](/images/states.png)
+![States with most accident cases](/images/states.png)
 
-![](/images/map.png)
+![An interactive density map displaying severity of accidents in Philadelphia](/images/map.png)
+
+___
+
 
 # [Project 2: NBA Database Server Website](https://github.com/sundy1994/Project-NBA-Server)
 
@@ -28,6 +31,9 @@ Important Data Science Projects
 
 **Key Words:**  SQL, JAVA Script, Web Application, Relational Database, AWS, Data Wrangling, Query Optimization
 
-![](/images/build.png)
+![Team-building](/images/build.png)
 
-![](/images/team.png)
+![Team Page](/images/team.png)
+
+___
+
