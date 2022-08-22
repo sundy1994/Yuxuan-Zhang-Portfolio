@@ -38,7 +38,7 @@ ___
 ___
 
 
-# [Project 3: Classification of X-Ray images using Machine Learning)
+# [Project 3: Classification of X-Ray images using Machine Learning](https://github.com/sundy1994/Project-X-Ray-Image-Classification)
 
 ### Overview
 
