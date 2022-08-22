@@ -45,3 +45,5 @@ ___
  * Implemented the CoAtNet Convolutional Neural Network (CNN) architecture to classify thousands of Chest X-Ray images from Covid-19, normal and pneumonia patients.
  * Constructed the model based on TensorFlow and sklearn in Google Colab and AWS SageMaker and measured the performance by learning curves, confusion matrix as well as testing error.
  * Improved testing accuracy to 89% and reduced overfitting comparing to the baseline ResNet model.
+
+![Learning Curve](/images/LC2.png)
