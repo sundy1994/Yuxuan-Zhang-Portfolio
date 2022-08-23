@@ -8,7 +8,7 @@
 * Analyzed 1.5 million accident cases using Python and predicted the severity of accidents based on time, location, weather and traffic condition.
 * Visualized the number and severity of accidents cases dynamically on interactive maps with plotly and folium package.
 * Utilized unsupervised machine learning such as Principle Component Analysis (PCA), k-means clustering to reduce dimension and visualize the accident data.
-* Implemented and evaluated machine learning models including Decision Tree, Random Forest model, Naïve Bayes classifier and Logistic Regression and reach a testing accuracy of 89%.
+* Implemented and evaluated machine learning models including Decision Tree, Random Forest model, Naïve Bayes classifier and Logistic Regression and reach a testing accuracy of 89% by stacking several models.
 
 **Key Words:**  Python, Pandas, Data wrangling, EDA, Data visualization, Machine Learning, Classification
 
@@ -49,3 +49,18 @@ ___
  **Key Words:** TensorFlow, Machine Learning, Deep Learning, Convolutional Neural Network, Image Classification, CoAtNet, AWS Sagemaker
 
 ![Learning Curve](/images/LC2.png)
+
+___
+
+# [Project 4: Early social and structural determinants of adolescent wellbeing](https://github.com/sundy1994/Project-Fragile-Family)
+
+### Overview
+
+ * Created a dataset suitable for model-fitting to investigate the relationship between early life factors and adolescent wellbeing
+ * Formulated a standard label from published studies to assess adolescent social and psychological wellbeing
+ * Implemented and tested a variety of machine learning models in R, such as Linear Regression and Logistic Regression with LASSO regularization, Random Forest and Baggings
+ * Visualized a decision tree from the Random Forest model that displays interpretable relationships between early predictors of child wellbeing 
+
+**Key Words:**  R, dplyr, Data wrangling, EDA, Machine Learning, Random Forest
+
+![]()
